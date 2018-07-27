@@ -20,15 +20,15 @@
   max-width: var(--max-content-width);
 }
 
-.newsItem {
+/* .newsItem {
   margin: 0 0 2rem;
-}
+} */
 
-.newsTitle {
+/* .newsTitle {
   font-size: 1.5rem;
-}
+} */
 
-.newsDesc {
+/* .newsDesc {
   h1,
   h2,
   h3,
@@ -36,14 +36,14 @@
   h5,
   h6 {
     font-size: 1.125rem;
-  }
+  } */
 
-  pre {
-    white-space: pre-wrap;
-    font-size: 0.875rem;
-  }
+pre {
+  white-space: pre-wrap;
+  font-size: 0.875rem;
+}
 
-  img {
-    max-width: 100%;
-  }
+img {
+  max-width: 100%;
+}
 }
